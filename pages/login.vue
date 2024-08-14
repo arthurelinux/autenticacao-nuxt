@@ -58,8 +58,20 @@
     margin-bottom: 15px;
   }
   
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
   button {
-    padding: 10px 20px;
+    width: 100%;
+    padding: 10px;
     background-color: #007bff;
     color: white;
     border: none;
